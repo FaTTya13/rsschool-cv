@@ -26,7 +26,7 @@ I'm excited to learn and discover something new. My goal to get competitive know
 * __Graphics editor__: Figma(for web development), Adobe Photoshop
 
 ## Code example
-    You can look at my [GitHub Profile](https://github.com/FaTTya13)
+   You can look at my [GitHub Profile](https://github.com/FaTTya13)
 
 ## Education
    * Master's degree, Belarusian state university,Faculty of International relations, Minsk
